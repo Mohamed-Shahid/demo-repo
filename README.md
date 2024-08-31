@@ -1,2 +1,2 @@
 # demo-repo
-hi this is a demo repo
+hi this is a demo repo.
